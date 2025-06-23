@@ -48,7 +48,3 @@
   <code><img title="Flask" height="25" src="images/flask.png"></code>
 </p>
 <hr>
-
-
-
-
