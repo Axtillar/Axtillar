@@ -6,6 +6,23 @@
   </a>
 </h1>
 
+
+
+<p align="center">
+        <!-- Intro -->
+        <samp>
+                「 I'm a software developer from <b>Bangladesh</b> 」
+                <br>
+                「 Focused on creating impactful web applications that improve lives</b> 」
+                <br>
+                <br>
+        </samp>
+
+
+</p>
+
+
+
 <h5 align="center">
   <code><a href="https://www.linkedin.com/in/axtillar/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
   <code><a href="https://www.hackerrank.com/axtillar" title="HackerRank Profile"><img width="22" src="images/hackerrank.png"> HackerRank</a></code>
