@@ -1,3 +1,6 @@
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=53B35C&width=435&lines=Hi%2C+I'm+AxtillaR+!;A+Techie+With+Ideas.;Let's+Create+Something+Cool.." alt="Typing SVG" /></a>
+
+
 <!-- Title -->
 <h3 align="center">
         <samp>&gt; Hey There!, I am
